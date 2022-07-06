@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/NET/PeriodicTimer/bin/Debug/net6.0/PeriodicTimer
+/Users/muratarslan/Development/NET/PeriodicTimer/bin/Debug/net6.0/PeriodicTimer.deps.json
+/Users/muratarslan/Development/NET/PeriodicTimer/bin/Debug/net6.0/PeriodicTimer.runtimeconfig.json
+/Users/muratarslan/Development/NET/PeriodicTimer/bin/Debug/net6.0/PeriodicTimer.dll
+/Users/muratarslan/Development/NET/PeriodicTimer/bin/Debug/net6.0/ref/PeriodicTimer.dll
+/Users/muratarslan/Development/NET/PeriodicTimer/bin/Debug/net6.0/PeriodicTimer.pdb
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/PeriodicTimer.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/PeriodicTimer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/PeriodicTimer.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/PeriodicTimer.AssemblyInfo.cs
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/PeriodicTimer.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/PeriodicTimer.dll
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/ref/PeriodicTimer.dll
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/PeriodicTimer.pdb
+/Users/muratarslan/Development/NET/PeriodicTimer/obj/Debug/net6.0/PeriodicTimer.genruntimeconfig.cache
